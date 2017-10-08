@@ -1,6 +1,7 @@
 # Installation (General)
 
 1. Install [miniconda](https://conda.io/miniconda.html)
+  - It doesn't *really* matter whether you install the version based off of Python 2.7 or 3.6, as it doesn't affect your subsequent environments. I would suggest erring toward newer versions, though.
   - (optional) Add conda to your path (otherwise, you need to use the "Anaconda Prompt")
 2. (optional) Install the [PyCharm IDE](https://www.jetbrains.com/pycharm/download/)
   - Definitely not necessary, but gets you easy access to a debugger, "projects", auto-completion, etc.
